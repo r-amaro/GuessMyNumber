@@ -1,0 +1,7 @@
+C:\Users\ralfg\source\repos\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe.config
+C:\Users\ralfg\source\repos\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe
+C:\Users\ralfg\source\repos\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.pdb
+C:\Users\ralfg\source\repos\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csprojAssemblyReference.cache
+C:\Users\ralfg\source\repos\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csproj.CoreCompileInputs.cache
+C:\Users\ralfg\source\repos\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.exe
+C:\Users\ralfg\source\repos\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.pdb
